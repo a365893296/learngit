@@ -5,3 +5,4 @@ Git has a mutable index called stage.
 Git tracks changes.dsadas
 Creating a new branch is quick and simple . 
 test fast forward 
+test bug_feature 
